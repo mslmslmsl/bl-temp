@@ -1,12 +1,14 @@
 [
-  "firm_name": "Cooley LLP",
-  "firm_sites": ["cooley.com", "cooley-law.com"],
-  "actions": {
-    "good": [
-      "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html",
-      "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160"
-    ],
-    "bad": [],
-    "complying": []
+  {
+    "firm_name": "Cooley LLP",
+    "firm_sites": ["cooley.com", "cooley-law.com"],
+    "actions": {
+      "good": [
+        "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html",
+        "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160"
+      ],
+      "bad": [],
+      "complying": []
+    }
   }
 ]
