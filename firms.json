@@ -1,7 +1,7 @@
 [
   {
     "firm_name": "Cooley LLP",
-    "firm_sites": ["cooley.com", "cooley-law.com"],
+    "firm_sites": ["cooley.com"],
     "actions": {
       "good": [
         "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html",
