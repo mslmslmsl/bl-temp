@@ -1,4 +1,4 @@
-{
+[
   "firm_name": "Cooley LLP",
   "firm_sites": ["cooley.com", "cooley-law.com"],
   "actions": {
@@ -9,4 +9,4 @@
     "bad": [],
     "complying": []
   }
-}
+]
