@@ -1,7 +1,6 @@
-[
-  {
+{
+  "cooley.com": {
     "firm_name": "Cooley",
-    "firm_sites": ["cooley.com"],
     "actions": {
       "against": [
         "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html",
@@ -11,22 +10,20 @@
       "dei": []
     }
   },
-  {
+  "aoshearman.com": {
     "firm_name": "A&O Shearman",
-    "firm_sites": ["aoshearman.com"],
     "actions": {
       "against": [],
       "pro": ["https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal"],
       "dei": []
     }
   },
-  {
+  "akerman.com": {
     "firm_name": "Akerman",
-    "firm_sites": ["akerman.com"],
     "actions": {
       "against": [],
       "pro": [],
       "dei": ["https://www.akerman.com/en/vision/womens-initiative-network.html"]
     }
   }
-]
+}
