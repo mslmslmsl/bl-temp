@@ -13,7 +13,7 @@
   },
   {
     "firm_name": "A&O Shearman",
-    "firm_sites": ["https://www.aoshearman.com"],
+    "firm_sites": ["aoshearman.com"],
     "actions": {
       "good": [],
       "bad": ["https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal"],
@@ -22,7 +22,7 @@
   },
   {
     "firm_name": "Akerman",
-    "firm_sites": ["https://www.akerman.com"],
+    "firm_sites": ["akerman.com"],
     "actions": {
       "good": [],
       "bad": [],
