@@ -1,35 +1,2308 @@
 [
   {
-    "firm_name": "Cooley",
-    "firm_sites": ["cooley.com"],
+    "firm_name": "Rodl & Partner",
+    "firm_sites": [
+      "roedl.com"
+    ],
     "actions": {
-      "against": [
-        "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html",
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Baker Donelson",
+    "firm_sites": [
+      "bakerdonelson.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Dechert",
+    "firm_sites": [
+      "dechert.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Seyfarth",
+    "firm_sites": [
+      "seyfarth.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Debevoise & Plimpton",
+    "firm_sites": [
+      "debevoise.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Susman Godfrey",
+    "firm_sites": [
+      "susmangodfrey.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf",
+        "https://news.bloomberglaw.com/business-and-practice/susman-godfrey-sues-trump-to-fight-unconstitutional-order"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Bird & Bird",
+    "firm_sites": [
+      "twobirds.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "DAC Beachcroft",
+    "firm_sites": [
+      "dacbeachcroft.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Macfarlanes",
+    "firm_sites": [
+      "macfarlanes.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Zhong Lun",
+    "firm_sites": [
+      "zhonglun.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Nixon Peabody",
+    "firm_sites": [
+      "nixonpeabody.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Cooley",
+    "firm_sites": [
+      "cooley.com"
+    ],
+    "actions": {
+      "anti-admin": [
         "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160"
       ],
-      "pro": [],
-      "dei": []
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Stinson",
+    "firm_sites": [
+      "stinson.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Katten",
+    "firm_sites": [
+      "katten.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Herbert Smith Freehills",
+    "firm_sites": [
+      "herbertsmithfreehills.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Cleary Gottlieb",
+    "firm_sites": [
+      "clearygottlieb.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Clyde & Co",
+    "firm_sites": [
+      "clydeco.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Norton Rose Fulbright",
+    "firm_sites": [
+      "nortonrosefulbright.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "HFW",
+    "firm_sites": [
+      "hfw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Tahota Law Firm",
+    "firm_sites": [
+      "tahota.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Milbank",
+    "firm_sites": [
+      "milbank.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://www.reuters.com/world/us/trump-reaches-agreement-with-milbank-law-firm-2025-04-02/",
+        "https://abovethelaw.com/2025/04/milbank-joins-list-of-pushover-biglaw-firms-bowing-to-trump/"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Foley Hoag",
+    "firm_sites": [
+      "foleyhoag.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Manatt",
+    "firm_sites": [
+      "manatt.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "O'Melveny",
+    "firm_sites": [
+      "omm.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "McCarthy Tetrault",
+    "firm_sites": [
+      "mccarthy.ca"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Kirkland & Ellis",
+    "firm_sites": [
+      "kirkland.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
+        "https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal",
+        "https://abovethelaw.com/2025/04/kirkland-ellis-wants-to-cave-to-donald-trump/"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Foley & Lardner",
+    "firm_sites": [
+      "foley.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Littler",
+    "firm_sites": [
+      "littler.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Winston & Strawn",
+    "firm_sites": [
+      "winston.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Uria Menendez",
+    "firm_sites": [
+      "uria.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Osborne Clarke",
+    "firm_sites": [
+      "osborneclarke.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fish & Richardson",
+    "firm_sites": [
+      "fr.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Cuatrecasas",
+    "firm_sites": [
+      "cuatrecasas.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Goodwin",
+    "firm_sites": [
+      "goodwinlaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Blank Rome",
+    "firm_sites": [
+      "blankrome.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Steptoe",
+    "firm_sites": [
+      "steptoe.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Clark Hill",
+    "firm_sites": [
+      "clarkhill.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "DWF",
+    "firm_sites": [
+      "dwfgroup.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Davis Wright Tremaine",
+    "firm_sites": [
+      "dwt.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Hogan Lovells",
+    "firm_sites": [
+      "hoganlovells.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Duane Morris",
+    "firm_sites": [
+      "duanemorris.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Bracewell",
+    "firm_sites": [
+      "bracewell.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Stikeman Elliott",
+    "firm_sites": [
+      "stikeman.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fenwick",
+    "firm_sites": [
+      "fenwick.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Pinsent Masons",
+    "firm_sites": [
+      "pinsentmasons.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Munger Tolles & Olson",
+    "firm_sites": [
+      "mto.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://abovethelaw.com/2025/03/reminder-its-not-biglaw-leading-the-defense-of-the-rule-of-law/"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "White & Case",
+    "firm_sites": [
+      "whitecase.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Borden Ladner Gervais",
+    "firm_sites": [
+      "blg.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Hengeler Mueller",
+    "firm_sites": [
+      "hengeler.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "DeHeng Law Offices",
+    "firm_sites": [
+      "dehenglaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Mintz",
+    "firm_sites": [
+      "mintz.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Vedder Price",
+    "firm_sites": [
+      "vedderprice.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "AllBright Law Offices",
+    "firm_sites": [
+      "allbrightlaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Irwin Mitchell",
+    "firm_sites": [
+      "irwinmitchell.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Baker McKenzie",
+    "firm_sites": [
+      "bakermckenzie.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Venable",
+    "firm_sites": [
+      "venable.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Torys",
+    "firm_sites": [
+      "torys.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "McGuireWoods",
+    "firm_sites": [
+      "mcguirewoods.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Gowling Lafleur Henderson",
+    "firm_sites": [
+      "gowlingwlg.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Pillsbury",
+    "firm_sites": [
+      "pillsbury.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Honigman",
+    "firm_sites": [
+      "honigman.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Clifford Chance",
+    "firm_sites": [
+      "cliffordchance.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Shook",
+    "firm_sites": [
+      "shb.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Sidley",
+    "firm_sites": [
+      "sidley.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://www.law.com/americanlawyer/2025/03/07/big-law-firms-have-quietly-removed-dei-website-language-altered-diversity-policies-/"
+      ]
+    }
+  },
+  {
+    "firm_name": "Alston & Bird",
+    "firm_sites": [
+      "alston.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Noerr",
+    "firm_sites": [
+      "noerr.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Wachtell Lipton",
+    "firm_sites": [
+      "wlrk.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Cozen O'Connor",
+    "firm_sites": [
+      "cozen.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Holland & Hart",
+    "firm_sites": [
+      "hollandhart.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Corrs Chambers Westgarth",
+    "firm_sites": [
+      "corrs.com.au"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Ashurst",
+    "firm_sites": [
+      "ashurst.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Covington",
+    "firm_sites": [
+      "cov.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Buchalter",
+    "firm_sites": [
+      "buchalter.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "BonelliErede",
+    "firm_sites": [
+      "belex.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Lowenstein Sandler",
+    "firm_sites": [
+      "lowenstein.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Kutak Rock",
+    "firm_sites": [
+      "kutakrock.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "JunHe",
+    "firm_sites": [
+      "junhe.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Garrigues",
+    "firm_sites": [
+      "garrigues.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Loyens & Loeff",
+    "firm_sites": [
+      "loyensloeff.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Robins Kaplan",
+    "firm_sites": [
+      "robinskaplan.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Nelson Mullins",
+    "firm_sites": [
+      "nelsonmullins.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Williams & Connolly",
+    "firm_sites": [
+      "wc.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.nytimes.com/2025/03/12/us/politics/trump-law-firms-perkins-coie.html"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Baker Botts",
+    "firm_sites": [
+      "bakerbotts.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Allens",
+    "firm_sites": [
+      "allens.com.au"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Taylor Wessing",
+    "firm_sites": [
+      "taylorwessing.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Kramer Levin",
+    "firm_sites": [
+      "kramerlevin.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Lee & Ko",
+    "firm_sites": [
+      "leeko.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Schulte Roth & Zabel",
+    "firm_sites": [
+      "srz.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Withers",
+    "firm_sites": [
+      "withersworldwide.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Grandall Law Firm",
+    "firm_sites": [
+      "grandall.com.cn"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Mayer Brown",
+    "firm_sites": [
+      "mayerbrown.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Miller Thomson",
+    "firm_sites": [
+      "millerthomson.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Yingke",
+    "firm_sites": [
+      "yingke.cz"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Kim & Chang",
+    "firm_sites": [
+      "kimchang.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Blakes",
+    "firm_sites": [
+      "blakes.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Dentons",
+    "firm_sites": [
+      "dentons.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Dickinson Wright",
+    "firm_sites": [
+      "dickinson-wright.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Jones Day",
+    "firm_sites": [
+      "jonesday.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Arnold & Porter",
+    "firm_sites": [
+      "arnoldporter.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Choate",
+    "firm_sites": [
+      "choate.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "BCLP",
+    "firm_sites": [
+      "bclplaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Weil",
+    "firm_sites": [
+      "weil.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Gunderson Dettmer",
+    "firm_sites": [
+      "gunder.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Proskauer",
+    "firm_sites": [
+      "proskauer.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Cadwalader",
+    "firm_sites": [
+      "cadwalader.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
+        "https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Winstead",
+    "firm_sites": [
+      "winstead.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Bradley",
+    "firm_sites": [
+      "bradley.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Faegre Drinker",
+    "firm_sites": [
+      "faegredrinker.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Akerman",
+    "firm_sites": [
+      "akerman.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Ropes & Gray",
+    "firm_sites": [
+      "ropesgray.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Holland & Knight",
+    "firm_sites": [
+      "hklaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fisher Phillips",
+    "firm_sites": [
+      "fisherphillips.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Greenberg Traurig",
+    "firm_sites": [
+      "gtlaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Addleshaw Goddard",
+    "firm_sites": [
+      "addleshawgoddard.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Vinson & Elkins",
+    "firm_sites": [
+      "velaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Jackson Lewis",
+    "firm_sites": [
+      "jacksonlewis.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Sullivan & Cromwell",
+    "firm_sites": [
+      "sullcrom.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://www.newyorker.com/news/the-lede/how-donald-trump-throttled-big-law"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Slaughter and May",
+    "firm_sites": [
+      "slaughterandmay.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "DLA Piper",
+    "firm_sites": [
+      "dlapiper.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://abovethelaw.com/2025/04/dla-pipers-excuse-for-cracking-down-on-diversity-as-embarrassing-as-youd-think-it-is/",
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Barnes & Thornburg",
+    "firm_sites": [
+      "btlaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Polsinelli",
+    "firm_sites": [
+      "polsinelli.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Dinsmore",
+    "firm_sites": [
+      "dinsmore.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Orrick",
+    "firm_sites": [
+      "orrick.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Crowell & Moring",
+    "firm_sites": [
+      "crowell.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Dorsey",
+    "firm_sites": [
+      "dorsey.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Latham & Watkins",
+    "firm_sites": [
+      "lw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
+        "https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Simpson Thacher",
+    "firm_sites": [
+      "stblaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
+        "https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Lewis Brisbois",
+    "firm_sites": [
+      "lewisbrisbois.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Reed Smith",
+    "firm_sites": [
+      "reedsmith.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "King & Spalding",
+    "firm_sites": [
+      "kslaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Saul Ewing",
+    "firm_sites": [
+      "saul.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Buchanan Ingersoll & Rooney",
+    "firm_sites": [
+      "bipc.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Willkie",
+    "firm_sites": [
+      "willkie.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://abovethelaw.com/2025/04/willkie-farr-surrenders-to-trump/",
+        "https://www.nytimes.com/2025/04/01/us/politics/trump-law-firm-doug-emhoff-wilkie-farr-gallagher.html"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Kennedys",
+    "firm_sites": [
+      "kennedyslaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "BakerHostetler",
+    "firm_sites": [
+      "bakerlaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fidal",
+    "firm_sites": [
+      "fidal.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Simmons & Simmons",
+    "firm_sites": [
+      "simmons-simmons.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Linklaters",
+    "firm_sites": [
+      "linklaters.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Finnegan",
+    "firm_sites": [
+      "finnegan.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Ogletree Deakins",
+    "firm_sites": [
+      "ogletree.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Haynes Boone",
+    "firm_sites": [
+      "haynesboone.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fragomen",
+    "firm_sites": [
+      "fragomen.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "CMS",
+    "firm_sites": [
+      "cms.law",
+      "cmslegal.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fried Frank",
+    "firm_sites": [
+      "friedfrank.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Kilpatrick",
+    "firm_sites": [
+      "ktslaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Davis Polk",
+    "firm_sites": [
+      "davispolk.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Quarles & Brady",
+    "firm_sites": [
+      "quarles.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "ArentFox Schiff",
+    "firm_sites": [
+      "afslaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Eversheds Sutherland",
+    "firm_sites": [
+      "eversheds-sutherland.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Ballard Spahr",
+    "firm_sites": [
+      "ballardspahr.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Hunton Andrews Kurth",
+    "firm_sites": [
+      "hunton.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Wilson Elser",
+    "firm_sites": [
+      "wilsonelser.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Troutman Pepper",
+    "firm_sites": [
+      "troutman.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Jenner & Block",
+    "firm_sites": [
+      "jenner.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "FieldFisher",
+    "firm_sites": [
+      "fieldfisher.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Watson Farley & Williams",
+    "firm_sites": [
+      "wfw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Freshfields",
+    "firm_sites": [
+      "freshfields.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Mishcon de Reya",
+    "firm_sites": [
+      "mishcon.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "King & Wood Mallesons",
+    "firm_sites": [
+      "kwm.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Gide",
+    "firm_sites": [
+      "gide.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Husch Blackwell",
+    "firm_sites": [
+      "huschblackwell.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Jingsh Law Firm",
+    "firm_sites": [
+      "jingsh.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Loeb & Loeb",
+    "firm_sites": [
+      "loeb.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Taft",
+    "firm_sites": [
+      "taftlaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fangda Partners",
+    "firm_sites": [
+      "fangdalaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Quinn Emanuel",
+    "firm_sites": [
+      "quinnemanuel.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://www.law.com/americanlawyer/2025/03/28/with-a-skadden-deal-imminent-how-are-law-firms-getting-a-foot-in-the-door/"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Squire Patton Boggs",
+    "firm_sites": [
+      "squirepattonboggs.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://www.law.com/americanlawyer/2025/03/07/big-law-firms-have-quietly-removed-dei-website-language-altered-diversity-policies-/"
+      ]
+    }
+  },
+  {
+    "firm_name": "Gibson Dunn",
+    "firm_sites": [
+      "gibsondunn.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "MinterEllison",
+    "firm_sites": [
+      "minterellison.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Morrison Foerster",
+    "firm_sites": [
+      "mofo.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Bae Kim & Lee",
+    "firm_sites": [
+      "bkl.co.kr"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Akin",
+    "firm_sites": [
+      "akingump.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Clayton Utz",
+    "firm_sites": [
+      "claytonutz.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Jackson Walker",
+    "firm_sites": [
+      "jw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fox Rothschild",
+    "firm_sites": [
+      "foxrothschild.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Womble Bond Dickinson",
+    "firm_sites": [
+      "womblebonddickinson.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "K&L Gates",
+    "firm_sites": [
+      "klgates.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Sheppard Mullin",
+    "firm_sites": [
+      "sheppardmullin.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Perkins Coie",
+    "firm_sites": [
+      "perkinscoie.com",
+      "perkinscoiefacts.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67d098cae5905f455b133083_PerkinsCoieFiling1.pdf",
+        "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Osler",
+    "firm_sites": [
+      "osler.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Cravath",
+    "firm_sites": [
+      "cravath.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Morgan Lewis",
+    "firm_sites": [
+      "morganlewis.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "McDermott",
+    "firm_sites": [
+      "mcdermott.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
     }
   },
   {
     "firm_name": "A&O Shearman",
     "firm_sites": [
-      "aoshearman.com",
-      "allenovery.com"
+      "allenovery.com",
+      "aoshearman.com"
     ],
     "actions": {
-      "against": [],
-      "pro": ["https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal"],
-      "dei": []
+      "anti-admin": [],
+      "pro-admin": [
+        "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
+        "https://www.theguardian.com/us-news/2025/apr/11/trump-law-firms-pro-bono-deal"
+      ],
+      "anti-dei": []
     }
   },
   {
-    "firm_name": "Akerman",
-    "firm_sites": ["akerman.com"],
+    "firm_name": "Mattos Filho",
+    "firm_sites": [
+      "mattosfilho.com.br"
+    ],
     "actions": {
-      "against": [],
-      "pro": [],
-      "dei": ["https://www.akerman.com/en/vision/womens-initiative-network.html"]
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Frost Brown Todd",
+    "firm_sites": [
+      "frostbrowntodd.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Skadden",
+    "firm_sites": [
+      "skadden.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://www.cbsnews.com/news/law-firm-skadden-cuts-100-million-pro-bono-deal-trump-avoid-executive-order/",
+        "https://abovethelaw.com/2025/03/skadden-makes-100-million-settlement-with-trump-in-pro-bono-payola/"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Paul, Weiss",
+    "firm_sites": [
+      "paulweiss.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [
+        "https://apnews.com/article/trump-law-firm-security-clearances-4e0a8f152ccfea86ae2c383bfc41c586",
+        "https://abovethelaw.com/2025/03/paul-weiss-grovels-to-trump-gets-out-from-under-executive-order/"
+      ],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Wilson Sonsini",
+    "firm_sites": [
+      "wsgr.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "WilmerHale",
+    "firm_sites": [
+      "wilmerhale.com"
+    ],
+    "actions": {
+      "anti-admin": [
+        "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
+        "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160",
+        "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
+      ],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "GRSM",
+    "firm_sites": [
+      "grsm.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Bennett Jones",
+    "firm_sites": [
+      "bennettjones.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Fasken",
+    "firm_sites": [
+      "fasken.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Cahill",
+    "firm_sites": [
+      "cahill.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "W&H Law Firm",
+    "firm_sites": [
+      "weihenglawfirm.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Stephenson Harwood",
+    "firm_sites": [
+      "stephensonharwood.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
+    }
+  },
+  {
+    "firm_name": "Paul Hastings",
+    "firm_sites": [
+      "paulhastings.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": [
+        "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
+      ]
+    }
+  },
+  {
+    "firm_name": "Snell & Wilmer",
+    "firm_sites": [
+      "swlaw.com"
+    ],
+    "actions": {
+      "anti-admin": [],
+      "pro-admin": [],
+      "anti-dei": []
     }
   }
 ]
